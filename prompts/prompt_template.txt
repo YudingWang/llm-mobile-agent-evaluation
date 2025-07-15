@@ -1,0 +1,7 @@
+Goal: {goal}
+Observation:
+{observation}
+
+What is the next best action? 
+Respond in this exact format (no explanation):
+CLICK("UI_Element_Text")

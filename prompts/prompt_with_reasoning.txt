@@ -1,0 +1,9 @@
+
+Goal: {goal}
+Observation:
+{observation}
+
+What is the next best action?
+Please respond exactly in this format:
+Action: CLICK("UI Element Text")
+Reasoning: Explain in one sentence why this is the best action.
